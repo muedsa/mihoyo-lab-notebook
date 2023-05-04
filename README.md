@@ -1,3 +1,4 @@
-# Genshin Impact Note
+# Mihoyo Lab Notebook
 
-- [绽放反应](./bloom-reactions.ipynb)
+## Genshin Impact
+- [绽放反应](./genshin-impact/bloom-reactions.ipynb)
